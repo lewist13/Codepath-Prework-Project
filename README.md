@@ -1,7 +1,7 @@
 ## Codepath Prework Project
 
 ### App Description
-This is an iOS application for Codepath's iOS Development program. Using almost only Storyboard to create, organize, implement, and adapt elements, the app allows a user to input their full name, school name, their school year, increment the amount of owned pets, and toggle if more pets are wanted. Once the form and other options have been completed, the user can tap a button that opens an alert displaying an introduction. The introduction contains all the information the user inputted and any changed values.
+This iOS app, developed as part of Codepath's iOS Development program, provides a user-friendly interface for inputting personal information. Utilizing Storyboard, the app allows users to easily input their full name, school name, school year, and track the number of pets they own, as well as indicate their desire for more pets. Once all information has been entered, a button tap activates an alert that presents a comprehensive introduction, summarizing all the user-inputted information and any updates.
 
 ### App Walk-though
 <img src="https://media.giphy.com/media/afJkh0bx0lCa8GtJVP/giphy.gif" width=200><br>
