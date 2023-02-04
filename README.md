@@ -4,7 +4,7 @@
 This iOS app, developed as part of Codepath's iOS Development program, provides a user-friendly interface for inputting personal information. Utilizing Storyboard, the app allows users to easily input their full name, school name, school year, and track the number of pets they own, as well as indicate their desire for more pets. Once all information has been entered, a button tap activates an alert that presents a comprehensive introduction, summarizing all the user-inputted information and any updates.
 
 ### App Walk-though
-<iframe src='https://gfycat.com/ifr/DecisiveFixedJaeger' frameborder='0' scrolling='no' allowfullscreen width='640' height='1400'></iframe>
+<img src="https://tenor.com/b1BAB.gif" width=200><br>
 
 ### Required Features
 
