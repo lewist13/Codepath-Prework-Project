@@ -41,6 +41,7 @@
 		B3C23ECB298DF141002B1F78 = {
 			isa = PBXGroup;
 			children = (
+				B3C23EEB298E0155002B1F78 /* README.md */,
 				B3C23ED6298DF141002B1F78 /* Codepath Prework Project */,
 				B3C23ED5298DF141002B1F78 /* Products */,
 			);
@@ -57,7 +58,6 @@
 		B3C23ED6298DF141002B1F78 /* Codepath Prework Project */ = {
 			isa = PBXGroup;
 			children = (
-				B3C23EEB298E0155002B1F78 /* README.md */,
 				B3C23ED7298DF141002B1F78 /* AppDelegate.swift */,
 				B3C23ED9298DF141002B1F78 /* SceneDelegate.swift */,
 				B3C23EDB298DF141002B1F78 /* ViewController.swift */,
